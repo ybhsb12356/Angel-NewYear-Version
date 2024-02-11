@@ -8,3 +8,9 @@
 将Combo导入到Combo.txt
 安装 `requirements.txt` 内所有模块
 运行`python main.py`
+
+# 关于
+
+> 任何问题可以+qq 2921228645
+
+
